@@ -24,3 +24,4 @@ Because Dehurdle deploys infrastructure into highly regulated Fortune 500s, glob
 *    **My Technical Manifesto:** [The Physics of AI: Why the Generative Era is a Dead End](https://www.linkedin.com/pulse/physics-ai-why-generative-era-dead-end-vishal-verma-anp7c/)
 *    **LinkedIn:** [in/visha1v](https://www.linkedin.com/in/visha1v) *(Note: adjust if your URL handle is slightly different)*
 *    **Company:** [dehurdle.com](https://www.dehurdle.com)
+*    **Personal Website:** [vishalvermalabs.com](https://vishalvermalabs.com/)
