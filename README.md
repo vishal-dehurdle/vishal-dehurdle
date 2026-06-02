@@ -21,7 +21,7 @@ If you are looking at my commit graph below, you will see a massive amount of ve
 Because Dehurdle deploys infrastructure into highly regulated Fortune 500s, global conglomerates, and BFSI environments, **100% of my core engineering work**—our edge classifiers, coupling matrices, and proprietary inference layers—lives in strictly private, SOC2 and DPDP-compliant enterprise repositories. 
 
 ###  Read & Connect
-*    **My Technical Manifesto:** [The Physics of AI: Why the Generative Era is a Dead End](https://www.linkedin.com/pulse/physics-ai-why-generative-era-dead-end-vishal-verma-anp7c/)
+*    **Twitter:** [Vishal](https://x.com/v1sha1v)
 *    **LinkedIn:** [in/visha1v](https://www.linkedin.com/in/visha1v) *(Note: adjust if your URL handle is slightly different)*
 *    **Company:** [dehurdle.com](https://www.dehurdle.com)
 *    **Personal Website:** [vishalvermalabs.com](https://vishalvermalabs.com/)
